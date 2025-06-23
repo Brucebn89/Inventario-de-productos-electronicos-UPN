@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "G11_T2_Inventario_de_productos_electronicos/1.0.0": {
+        "runtime": {
+          "G11_T2_Inventario_de_productos_electronicos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "G11_T2_Inventario_de_productos_electronicos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
