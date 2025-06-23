@@ -278,5 +278,12 @@
         private ColumnHeader columnHeader3;
         private ColumnHeader columnHeader4;
         private ColumnHeader columnHeader5;
+
+        public Form1(Button button4)
+        {
+            this.button4 = button4;
+
+            //MENSAJE DE PRUEBA
+        }
     }
 }
